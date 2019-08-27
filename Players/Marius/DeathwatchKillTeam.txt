@@ -1,4 +1,5 @@
-Veteran Sergeant 39
+# Team Leader
+## Veteran Sergeant (39) 
 - Frag Grenade (0)
 - Krag Grenade (0)
 - Hurricane Bolter (10)
@@ -7,3 +8,21 @@ Veteran Sergeant 39
 
 => 59
 
+# Core
+## Intercessor (17)
+- Frag Grenade (0)
+- Krag Grenade (0)
+- Auto Bolt Rifle (2)
+
+=> 19
+
+# Special
+## Blackshield (25)
+- Frag Grenade (0)
+- Krag Grenade (0)
+- Auto Bolt Rifle (2)
+- The Black Shield (5)
+
+=> 32
+
+===>>> 59 + 19 + 32 = 110
