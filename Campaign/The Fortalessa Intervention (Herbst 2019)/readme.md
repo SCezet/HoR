@@ -1,8 +1,11 @@
-*** Players: ***
-** Team Red (Pro-Imperium) **
+### Players
+
+## Team Red (Pro-Imperium)
+
 Marius - Deathwatch
 Kai - Adeptus Mechanicus
 
-** Team Blue (Pro-Secession) **
+## Team Blue (Pro-Secession)
+
 Stefan - Space Wolves
 Aaron - Tau
