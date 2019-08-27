@@ -1,0 +1,9 @@
+Veteran Sergeant 39
+- Frag Grenade (0)
+- Krag Grenade (0)
+- Hurricane Bolter (10)
+- Combat Shield (4)
+- Tactical Processor (6)
+
+=> 59
+
